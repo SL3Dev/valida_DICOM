@@ -21,7 +21,7 @@ Uma aplicação Python com interface gráfica que converte imagens comuns (JPG/P
 
 | Imagem Original  | DICOM Convertido |
 |------------------|------------------|
-| ![original](/valida_DICOM/fotos/Screenshot_1.png) | ![dicom](/valida_DICOM/fotos/Screenshot_3.png) |
+| ![original](https://i.imgur.com/Obf67Wb.png) | ![dicom](https://i.imgur.com/PNB2d3T.png) |
 
 ---
 
